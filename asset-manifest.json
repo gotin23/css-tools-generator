@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/css-tools-generator/static/css/main.457cb53c.css",
+    "main.js": "/css-tools-generator/static/js/main.2b677b04.js",
+    "static/media/tristan-boucher-rZgoIaGcveE-unsplash.jpg": "/css-tools-generator/static/media/tristan-boucher-rZgoIaGcveE-unsplash.b95cad0cf0ec90307889.jpg",
+    "static/media/gradient-tool-2.svg": "/css-tools-generator/static/media/gradient-tool-2.834ace186991b0d6db1fc3acff4ec4a6.svg",
+    "static/media/cursor_120340.svg": "/css-tools-generator/static/media/cursor_120340.9c3a56c5c53d0b525a992a66e2e8bd41.svg",
+    "static/media/border-radius.svg": "/css-tools-generator/static/media/border-radius.fcbbe58778a0ba1fddcb636d4fb47bda.svg",
+    "index.html": "/css-tools-generator/index.html",
+    "static/media/box-shadow.svg": "/css-tools-generator/static/media/box-shadow.94bf3dd8ce70ea0012b4d3bb7c184ec6.svg",
+    "static/media/filter_picture_icon_187459.svg": "/css-tools-generator/static/media/filter_picture_icon_187459.ddb8ad9ea223d6e5050d031584255825.svg",
+    "static/media/text_shadow_icon_137108.svg": "/css-tools-generator/static/media/text_shadow_icon_137108.073588fd96ad7e2f6b33b1b5f709772b.svg",
+    "main.457cb53c.css.map": "/css-tools-generator/static/css/main.457cb53c.css.map",
+    "main.2b677b04.js.map": "/css-tools-generator/static/js/main.2b677b04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.457cb53c.css",
+    "static/js/main.2b677b04.js"
+  ]
+}
